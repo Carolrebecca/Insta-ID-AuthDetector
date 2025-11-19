@@ -80,8 +80,8 @@ Validation
 
 ## 🖼️ Screenshots
 
-![Prediction (Real)](Screenshots/Prediction(Real).png)
-![Prediction (Fake)](Screenshots/Prediction(Fake).png)
+![Prediction (Real)](screenshots/Prediction(Real).png)
+![Prediction (Fake)](screenshots/Prediction(Fake).png)
 
 ## 📘 Project Report
 
